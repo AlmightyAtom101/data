@@ -1,0 +1,36 @@
+{
+  "Engineering": [
+    {
+      "Courses": "Aerospace",
+      "Code": "BAE"
+    },
+    {
+      "Courses": "Computer",
+      "Code": "BCT"
+    },
+    {
+      "Courses": "Civil",
+      "Code": "BCE"
+    },
+    {
+      "Courses": "Electronics and Communication (BEX)",
+      "Code": "BEX"
+    },
+    {
+      "Courses": "Electrical",
+      "Code": "BEL"
+    },
+    {
+      "Courses": "Mechanical",
+      "Code": "BME"
+    },
+    {
+      "Courses": "Geomatics",
+      "Code": "BGE"
+    },
+    {
+      "Courses": "Architexture",
+      "Code": "BArch"
+    }
+  ]
+}
