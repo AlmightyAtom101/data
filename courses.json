@@ -2,35 +2,35 @@
   "Engineering": [
     {
       "Courses": "Aerospace",
-      "Code": "BAE"
+      "key": "BAE"
     },
     {
       "Courses": "Computer",
-      "Code": "BCT"
+      "key": "BCT"
     },
     {
       "Courses": "Civil",
-      "Code": "BCE"
+      "key": "BCE"
     },
     {
       "Courses": "Electronics and Communication (BEX)",
-      "Code": "BEX"
+      "key": "BEX"
     },
     {
       "Courses": "Electrical",
-      "Code": "BEL"
+      "key": "BEL"
     },
     {
       "Courses": "Mechanical",
-      "Code": "BME"
+      "key": "BME"
     },
     {
       "Courses": "Geomatics",
-      "Code": "BGE"
+      "key": "BGE"
     },
     {
       "Courses": "Architexture",
-      "Code": "BArch"
+      "key": "BArch"
     }
   ]
 }
