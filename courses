@@ -1,5 +1,5 @@
 {
-    "Engineering":{
+    "Engineering":[{
       "Courses": "Aerospace",
       "Property":0,"key": "BAE"
     },
@@ -37,5 +37,5 @@
       "Courses": "Architexture",
       "Property":0,
 	  "key": "BArch"
-    }
+    }]
 }
