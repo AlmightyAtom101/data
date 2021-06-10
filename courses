@@ -1,34 +1,41 @@
 {
-    {
+    "Engineering":{
       "Courses": "Aerospace",
-      "key": "BAE"
+      "Property":0,"key": "BAE"
     },
     {
       "Courses": "Computer",
-      "key": "BCT"
+      "Property":0,
+	  "key": "BCT"
     },
     {
       "Courses": "Civil",
-      "key": "BCE"
+      "Property":0,
+	  "key": "BCE"
     },
     {
       "Courses": "Electronics and Communication (BEX)",
-      "key": "BEX"
+      "Property":0,
+	  "key": "BEX"
     },
     {
       "Courses": "Electrical",
-      "key": "BEL"
+      "Property":0,
+	  "key": "BEL"
     },
     {
       "Courses": "Mechanical",
-      "key": "BME"
+      "Property":0,
+	  "key": "BME"
     },
     {
       "Courses": "Geomatics",
-      "key": "BGE"
+      "Property":0,
+	  "key": "BGE"
     },
     {
       "Courses": "Architexture",
-      "key": "BArch"
+      "Property":0,
+	  "key": "BArch"
     }
-} 
+}
