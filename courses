@@ -1,33 +1,42 @@
-[{
-	"Courses": "Aerospace",
-	"Property": 0,
-	"key": "BAE"
-}, {
-	"Courses": "Computer",
-	"Property": 0,
-	"key": "BCT"
-}, {
-	"Courses": "Civil",
-	"Property": 0,
-	"key": "BCE"
-}, {
-	"Courses": "Electronics and Communication (BEX)",
-	"Property": 0,
-	"key": "BEX"
-}, {
-	"Courses": "Electrical",
-	"Property": 0,
-	"key": "BEL"
-}, {
-	"Courses": "Mechanical",
-	"Property": 0,
-	"key": "BME"
-}, {
-	"Courses": "Geomatics",
-	"Property": 0,
-	"key": "BGE"
-}, {
-	"Courses": "Architexture",
-	"Property": 0,
-	"key": "BArch"
-}]
+[
+  {
+    "Property": 0,
+    "key": "BAE",
+    "Courses": "Aerospace"
+  },
+  {
+    "Property": 0,
+    "key": "BCT",
+    "Courses": "Computer"
+  },
+  {
+    "Property": 0,
+    "key": "BCE",
+    "Courses": "Civil"
+  },
+  {
+    "Property": 0,
+    "key": "BEX",
+    "Courses": "Electronics and Communication (BEX)"
+  },
+  {
+    "Property": 0,
+    "key": "BEL",
+    "Courses": "Electrical"
+  },
+  {
+    "Property": 0,
+    "key": "BME",
+    "Courses": "Mechanical"
+  },
+  {
+    "Property": 0,
+    "key": "BGE",
+    "Courses": "Geomatics"
+  },
+  {
+    "Property": 0,
+    "key": "BArch",
+    "Courses": "Architexture"
+  }
+]
