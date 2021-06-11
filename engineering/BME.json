@@ -1,36 +1,36 @@
 [
   {
-    "key": 1,
+    "key": "First",
     "Property": 0,
-    "Description": "First sem"
+    "Description": "First"
   },
   {
-    "key": 2,
+    "key": "Second",
     "Property": 0,
     "Description": "Second"
   },
   {
-    "key": 3,
+    "key":"Third",
     "Property": 0,
     "Description": "Third"
   },
   {
-    "key": 4,
+    "key": "Fourth",
     "Property": 0,
     "Description": "Fourth"
   },
   {
-    "key": 5,
+    "key": "Fifth",
     "Property": 0,
     "Description": "Fifth"
   },
   {
-    "key": 6,
+    "key": "Sixth",
     "Property": 0,
     "Description": "Sixth"
   },
   {
-    "key": 7,
+    "key": "Seventh",
     "Property": 0,
     "Description": "Seventh"
   },
