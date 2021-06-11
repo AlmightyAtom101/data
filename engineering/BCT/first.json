@@ -1,0 +1,26 @@
+[
+  {
+    "Key": "SH401",
+    "Description": "Engineering Mathematics I"
+  },
+  {
+    "Key": "CT401",
+    "Description": "Computer Programming"
+  },
+  {
+    "Key": "ME401",
+    "Description": "Engineering Drawing I"
+  },
+  {
+    "Key": "SH402",
+    "Description": "Engineering Physics"
+  },
+  {
+    "Key": "CE401",
+    "Description": "Applied Mechanics"
+  },
+  {
+    "Key": "EE401",
+    "Description": "Basic Electrical Engineering"
+  }
+]
