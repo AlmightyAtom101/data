@@ -1,37 +1,37 @@
 [
   {
     "Code": "SH601",
-    "Title": "Communication English",
+    "Description": "Communication English",
     "Property": 0
   },
   {
     "Code": "CT601",
-    "Title": "Software Engineering",
+    "Description": "Software Engineering",
     "Property": 0
   },
   {
     "Code": "SH602",
-    "Title": "Probability & Statistics",
+    "Description": "Probability & Statistics",
     "Property": 0
   },
   {
     "Code": "EX602",
-    "Title": "Instrumentation II",
+    "Description": "Instrumentation II",
     "Property": 0
   },
   {
     "Code": "EX603",
-    "Title": "Computer Graphics",
+    "Description": "Computer Graphics",
     "Property": 0
   },
   {
     "Code": "CT602",
-    "Title": "Data Communication",
+    "Description": "Data Communication",
     "Property": 0
   },
   {
     "Code": "CT603",
-    "Title": "Computer Orginization & Architecture",
+    "Description": "Computer Orginization & Architecture",
     "Property": 0
   }
 ]
