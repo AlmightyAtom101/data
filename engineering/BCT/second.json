@@ -1,32 +1,34 @@
-[
-  {
-    "key": "SH451",
-    "Description": "Engineering Mathematics II",
-    "Property":0
-  },
-  {
-    "key": "ME451",
-    "Description": "Engineering Drawing II",
-    "Property":0
-  },
-  {
-    "key": "EX451",
-    "Description": "Basic Electronics Engineering",
-    "Property":0
-  },
-  {
-    "key": "SH453",
-    "Description": "Engineering Chemistry",
-    "Property":0
-  },
-  {
-    "key": "ME452",
-    "Description": "Fundamental of Thermodynamics & Heat Transfer",
-    "Property":0
-  },
-  {
-    "key": "ME453",
-    "Description": "Workshop Technology",
-    "Property":0
-  }
-]
+{
+  "Second Semester": [
+    {
+      "key": "SH451",
+      "Description": "Engineering Mathematics II",
+      "Property": 0
+    },
+    {
+      "key": "ME451",
+      "Description": "Engineering Drawing II",
+      "Property": 0
+    },
+    {
+      "key": "EX451",
+      "Description": "Basic Electronics Engineering",
+      "Property": 0
+    },
+    {
+      "key": "SH453",
+      "Description": "Engineering Chemistry",
+      "Property": 0
+    },
+    {
+      "key": "ME452",
+      "Description": "Fundamental of Thermodynamics & Heat Transfer",
+      "Property": 0
+    },
+    {
+      "key": "ME453",
+      "Description": "Workshop Technology",
+      "Property": 0
+    }
+  ]
+}

@@ -1,26 +1,29 @@
-[
-  {
-    "key": "SH401",
-    "Description": "Engineering Mathematics I"
-  },
-  {
-    "key": "CT401",
-    "Description": "Computer Programming"
-  },
-  {
-    "key": "ME401",
-    "Description": "Engineering Drawing I"
-  },
-  {
-    "key": "SH402",
-    "Description": "Engineering Physics"
-  },
-  {
-    "key": "CE401",
-    "Description": "Applied Mechanics"
-  },
-  {
-    "key": "EE401",
-    "Description": "Basic Electrical Engineering"
-  }
-]
+{
+
+  "Fifth Semester": [
+    {
+      "key": "SH401",
+      "Description": "Engineering Mathematics I"
+    },
+    {
+      "key": "CT401",
+      "Description": "Computer Programming"
+    },
+    {
+      "key": "ME401",
+      "Description": "Engineering Drawing I"
+    },
+    {
+      "key": "SH402",
+      "Description": "Engineering Physics"
+    },
+    {
+      "key": "CE401",
+      "Description": "Applied Mechanics"
+    },
+    {
+      "key": "EE401",
+      "Description": "Basic Electrical Engineering"
+    }
+  ]
+}

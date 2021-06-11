@@ -1,77 +1,79 @@
-[
-  {
-    "key": "CE752",
-    "Description": "Engineering Professional Practice",
-    "Property": 0
-  },
-  {
-    "key": "CT751",
-    "Description": "Information Systems",
-    "Property": 0
-  },
-  {
-    "key": "CT753",
-    "Description": "Simulation & Modeling",
-    "Property": 0
-  },
-  {
-    "key": "CT754",
-    "Description": "Internet & Intranet",
-    "Property": 0
-  },
-  {
-    "key": "CT755",
-    "Description": "Project II",
-    "Property": 0
-  },
-  {
-    "key": "CT76502",
-    "Description": "Agile Methodologies (Elective II)",
-    "Property": 0
-  },
-  {
-    "key": "CT76503",
-    "Description": "Networking with IPv6 (Elective II)",
-    "Property": 0
-  },
-  {
-    "key": "CT76507",
-    "Description": "Big Data Technologies (Elective II)",
-    "Property": 0
-  },
-  {
-    "key": "CT78501",
-    "Description": "Remote Sensing (Elective III)",
-    "Property": 0
-  },
-  {
-    "key": "CT78503",
-    "Description": "Multimedia System (Elective III)",
-    "Property": 0
-  },
-  {
-    "key": "CT78504",
-    "Description": "Enterprise Application Design & Development (Elective III)",
-    "Property": 0
-  },
-  {
-    "key": "CT78505",
-    "Description": "XML: Foundation Techniques & Applications (Elective III)",
-    "Property": 0
-  },
-  {
-    "key": "EX78503",
-    "Description": "Telecommunication (Elective III)",
-    "Property": 0
-  },
-  {
-    "key": "CT78507",
-    "Description": "Geographic Information System (Elective III)",
-    "Property": 0
-  },
-  {
-    "key": "CT78508",
-    "Description": "Speech Processing (Elective III)",
-    "Property": 0
-  }
-]
+{
+  "Eighth Semester": [
+    {
+      "key": "CE752",
+      "Description": "Engineering Professional Practice",
+      "Property": 0
+    },
+    {
+      "key": "CT751",
+      "Description": "Information Systems",
+      "Property": 0
+    },
+    {
+      "key": "CT753",
+      "Description": "Simulation & Modeling",
+      "Property": 0
+    },
+    {
+      "key": "CT754",
+      "Description": "Internet & Intranet",
+      "Property": 0
+    },
+    {
+      "key": "CT755",
+      "Description": "Project II",
+      "Property": 0
+    },
+    {
+      "key": "CT76502",
+      "Description": "Agile Methodologies (Elective II)",
+      "Property": 0
+    },
+    {
+      "key": "CT76503",
+      "Description": "Networking with IPv6 (Elective II)",
+      "Property": 0
+    },
+    {
+      "key": "CT76507",
+      "Description": "Big Data Technologies (Elective II)",
+      "Property": 0
+    },
+    {
+      "key": "CT78501",
+      "Description": "Remote Sensing (Elective III)",
+      "Property": 0
+    },
+    {
+      "key": "CT78503",
+      "Description": "Multimedia System (Elective III)",
+      "Property": 0
+    },
+    {
+      "key": "CT78504",
+      "Description": "Enterprise Application Design & Development (Elective III)",
+      "Property": 0
+    },
+    {
+      "key": "CT78505",
+      "Description": "XML: Foundation Techniques & Applications (Elective III)",
+      "Property": 0
+    },
+    {
+      "key": "EX78503",
+      "Description": "Telecommunication (Elective III)",
+      "Property": 0
+    },
+    {
+      "key": "CT78507",
+      "Description": "Geographic Information System (Elective III)",
+      "Property": 0
+    },
+    {
+      "key": "CT78508",
+      "Description": "Speech Processing (Elective III)",
+      "Property": 0
+    }
+  ]
+}

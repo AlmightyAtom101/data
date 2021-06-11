@@ -1,37 +1,39 @@
-[
-  {
-    "Code": "SH601",
-    "Description": "Communication English",
-    "Property": 0
-  },
-  {
-    "Code": "CT601",
-    "Description": "Software Engineering",
-    "Property": 0
-  },
-  {
-    "Code": "SH602",
-    "Description": "Probability & Statistics",
-    "Property": 0
-  },
-  {
-    "Code": "EX602",
-    "Description": "Instrumentation II",
-    "Property": 0
-  },
-  {
-    "Code": "EX603",
-    "Description": "Computer Graphics",
-    "Property": 0
-  },
-  {
-    "Code": "CT602",
-    "Description": "Data Communication",
-    "Property": 0
-  },
-  {
-    "Code": "CT603",
-    "Description": "Computer Orginization & Architecture",
-    "Property": 0
-  }
-]
+{
+  "Fifth Semester": [
+    {
+      "Code": "SH601",
+      "Description": "Communication English",
+      "Property": 0
+    },
+    {
+      "Code": "CT601",
+      "Description": "Software Engineering",
+      "Property": 0
+    },
+    {
+      "Code": "SH602",
+      "Description": "Probability & Statistics",
+      "Property": 0
+    },
+    {
+      "Code": "EX602",
+      "Description": "Instrumentation II",
+      "Property": 0
+    },
+    {
+      "Code": "EX603",
+      "Description": "Computer Graphics",
+      "Property": 0
+    },
+    {
+      "Code": "CT602",
+      "Description": "Data Communication",
+      "Property": 0
+    },
+    {
+      "Code": "CT603",
+      "Description": "Computer Orginization & Architecture",
+      "Property": 0
+    }
+  ]
+}

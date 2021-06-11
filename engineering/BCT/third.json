@@ -1,37 +1,40 @@
-[
-  {
-    "key": "SH501",
-    "Description": "Engineering Mathematics III",
-    "Property": 0
-  },
-  {
-    "key": "CT501",
-    "Description": "Object Oriented Programming",
-    "Property": 0
-  },
-  {
-    "key": "EE501",
-    "Description": "Electric Circuit Theory",
-    "Property": 0
-  },
-  {
-    "key": "CT502",
-    "Description": "Theory of Computation",
-    "Property": 0
-  },
-  {
-    "key": "EX501",
-    "Description": "Electronic Devices & Circuits",
-    "Property": 0
-  },
-  {
-    "key": "EX502",
-    "Description": "Digital Logic",
-    "Property": 0
-  },
-  {
-    "key": "EX503",
-    "Description": "Electromagnetics",
-    "Property": 0
-  }
-]
+{
+  "Third Sem":
+  [
+    {
+      "key": "SH501",
+      "Description": "Engineering Mathematics III",
+      "Property": 0
+    },
+    {
+      "key": "CT501",
+      "Description": "Object Oriented Programming",
+      "Property": 0
+    },
+    {
+      "key": "EE501",
+      "Description": "Electric Circuit Theory",
+      "Property": 0
+    },
+    {
+      "key": "CT502",
+      "Description": "Theory of Computation",
+      "Property": 0
+    },
+    {
+      "key": "EX501",
+      "Description": "Electronic Devices & Circuits",
+      "Property": 0
+    },
+    {
+      "key": "EX502",
+      "Description": "Digital Logic",
+      "Property": 0
+    },
+    {
+      "key": "EX503",
+      "Description": "Electromagnetics",
+      "Property": 0
+    }
+  ]
+}

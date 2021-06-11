@@ -1,37 +1,39 @@
-[
-  {
-    "key": "EE554",
-    "Description": "Electrical Machine",
-    "Property": 0
-  },
-  {
-    "key": "SH553",
-    "Description": "Numerical Methods",
-    "Property": 0
-  },
-  {
-    "key": "SH551",
-    "Description": "Applied Mathematics",
-    "Property": 0
-  },
-  {
-    "key": "EE552",
-    "Description": "Instrumentation I",
-    "Property": 0
-  },
-  {
-    "key": "CT552",
-    "Description": "Data Structure & Algorithm",
-    "Property": 0
-  },
-  {
-    "key": "EX551",
-    "Description": "Microprocessor",
-    "Property": 0
-  },
-  {
-    "key": "CT551",
-    "Description": "Discrete Structure",
-    "Property": 0
-  }
-]
+{
+  "Fourth Semester": [
+    {
+      "key": "EE554",
+      "Description": "Electrical Machine",
+      "Property": 0
+    },
+    {
+      "key": "SH553",
+      "Description": "Numerical Methods",
+      "Property": 0
+    },
+    {
+      "key": "SH551",
+      "Description": "Applied Mathematics",
+      "Property": 0
+    },
+    {
+      "key": "EE552",
+      "Description": "Instrumentation I",
+      "Property": 0
+    },
+    {
+      "key": "CT552",
+      "Description": "Data Structure & Algorithm",
+      "Property": 0
+    },
+    {
+      "key": "EX551",
+      "Description": "Microprocessor",
+      "Property": 0
+    },
+    {
+      "key": "CT551",
+      "Description": "Discrete Structure",
+      "Property": 0
+    }
+  ]
+}

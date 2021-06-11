@@ -1,5 +1,5 @@
-[
-  {
+{
+  "Seventh Semester":[{
     "key": "Ass",
     "Description": "Final",
     "Property": 0
@@ -94,4 +94,5 @@
     "Description": "RF & Microwave Engineering (Elective I)",
     "Property": 0
   }
-]
+  ]
+}
