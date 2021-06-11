@@ -1,31 +1,31 @@
 [
   {
-    "Key": "SH451",
+    "key": "SH451",
     "Description": "Engineering Mathematics II",
     "Property":0
   },
   {
-    "Key": "ME451",
+    "key": "ME451",
     "Description": "Engineering Drawing II",
     "Property":0
   },
   {
-    "Key": "EX451",
+    "key": "EX451",
     "Description": "Basic Electronics Engineering",
     "Property":0
   },
   {
-    "Key": "SH453",
+    "key": "SH453",
     "Description": "Engineering Chemistry",
     "Property":0
   },
   {
-    "Key": "ME452",
+    "key": "ME452",
     "Description": "Fundamental of Thermodynamics & Heat Transfer",
     "Property":0
   },
   {
-    "Key": "ME453",
+    "key": "ME453",
     "Description": "Workshop Technology",
     "Property":0
   }

@@ -1,96 +1,96 @@
 [
   {
-    "Key": "Ass",
+    "key": "Ass",
     "Description": "Final",
     "Property": 0
   },
   {
-    "Key": "CT701",
+    "key": "CT701",
     "Description": "Project Management",
     "Property": 0
   },
   {
-    "Key": "CT702",
+    "key": "CT702",
     "Description": "Computer Network",
     "Property": 0
   },
   {
-    "Key": "CT703",
+    "key": "CT703",
     "Description": "Distributed System",
     "Property": 0
   },
   {
-    "Key": "CT704",
+    "key": "CT704",
     "Description": "Digital Signal Analysis & Processing",
     "Property": 0
   },
   {
-    "Key": "CT707",
+    "key": "CT707",
     "Description": "Project I",
     "Property": 0
   },
   {
-    "Key": "EX701",
+    "key": "EX701",
     "Description": "Energy Environment & Society",
     "Property": 0
   },
   {
-    "Key": "ME708",
+    "key": "ME708",
     "Description": "Organization & Management",
     "Property": 0
   },
   {
-    "Key": "CT72501",
+    "key": "CT72501",
     "Description": "Advanced Java Programming (Elective I)",
     "Property": 0
   },
   {
-    "Key": "CT72502",
+    "key": "CT72502",
     "Description": "Data Mining (Elective I)",
     "Property": 0
   },
   {
-    "Key": "CT72503",
+    "key": "CT72503",
     "Description": "Embeded System Design Using ARM Technology (Elective I)",
     "Property": 0
   },
   {
-    "Key": "CT72504",
+    "key": "CT72504",
     "Description": "Image Processing & Pattern Recognition (Elective I)",
     "Property": 0
   },
   {
-    "Key": "CT72505",
+    "key": "CT72505",
     "Description": "Web Technology (Elective I)",
     "Property": 0
   },
   {
-    "Key": "EE72504",
+    "key": "EE72504",
     "Description": "Power Electronics (Elective I)",
     "Property": 0
   },
   {
-    "Key": "EX72501",
+    "key": "EX72501",
     "Description": "Radar Technology (Elective I)",
     "Property": 0
   },
   {
-    "Key": "EX72502",
+    "key": "EX72502",
     "Description": "Satellite Communication (Elective I)",
     "Property": 0
   },
   {
-    "Key": "EX72503",
+    "key": "EX72503",
     "Description": "Biomedical Instrumentation (Elective I)",
     "Property": 0
   },
   {
-    "Key": "EX72504",
+    "key": "EX72504",
     "Description": "Aeronautical Telecommunication (Elective I)",
     "Property": 0
   },
   {
-    "Key": "EX72505",
+    "key": "EX72505",
     "Description": "RF & Microwave Engineering (Elective I)",
     "Property": 0
   }

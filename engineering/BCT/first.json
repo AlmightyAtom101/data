@@ -1,26 +1,26 @@
 [
   {
-    "Key": "SH401",
+    "key": "SH401",
     "Description": "Engineering Mathematics I"
   },
   {
-    "Key": "CT401",
+    "key": "CT401",
     "Description": "Computer Programming"
   },
   {
-    "Key": "ME401",
+    "key": "ME401",
     "Description": "Engineering Drawing I"
   },
   {
-    "Key": "SH402",
+    "key": "SH402",
     "Description": "Engineering Physics"
   },
   {
-    "Key": "CE401",
+    "key": "CE401",
     "Description": "Applied Mechanics"
   },
   {
-    "Key": "EE401",
+    "key": "EE401",
     "Description": "Basic Electrical Engineering"
   }
 ]
