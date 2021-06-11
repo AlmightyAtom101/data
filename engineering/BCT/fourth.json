@@ -1,0 +1,37 @@
+[
+  {
+    "Key": "EE554",
+    "Description": "Electrical Machine",
+    "Property": 0
+  },
+  {
+    "Key": "SH553",
+    "Description": "Numerical Methods",
+    "Property": 0
+  },
+  {
+    "Key": "SH551",
+    "Description": "Applied Mathematics",
+    "Property": 0
+  },
+  {
+    "Key": "EE552",
+    "Description": "Instrumentation I",
+    "Property": 0
+  },
+  {
+    "Key": "CT552",
+    "Description": "Data Structure & Algorithm",
+    "Property": 0
+  },
+  {
+    "Key": "EX551",
+    "Description": "Microprocessor",
+    "Property": 0
+  },
+  {
+    "Key": "CT551",
+    "Description": "Discrete Structure",
+    "Property": 0
+  }
+]

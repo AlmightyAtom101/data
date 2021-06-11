@@ -1,0 +1,37 @@
+[
+  {
+    "Code": "SH501",
+    "Title": "Engineering Mathematics III",
+    "Property": 0
+  },
+  {
+    "Code": "CT501",
+    "Title": "Object Oriented Programming",
+    "Property": 0
+  },
+  {
+    "Code": "EE501",
+    "Title": "Electric Circuit Theory",
+    "Property": 0
+  },
+  {
+    "Code": "CT502",
+    "Title": "Theory of Computation",
+    "Property": 0
+  },
+  {
+    "Code": "EX501",
+    "Title": "Electronic Devices & Circuits",
+    "Property": 0
+  },
+  {
+    "Code": "EX502",
+    "Title": "Digital Logic",
+    "Property": 0
+  },
+  {
+    "Code": "EX503",
+    "Title": "Electromagnetics",
+    "Property": 0
+  }
+]

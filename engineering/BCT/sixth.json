@@ -1,0 +1,37 @@
+[
+  {
+    "Key": "CE655",
+    "Description": "Engineering Economics",
+    "Property": 0
+  },
+  {
+    "Key": "CT655",
+    "Description": "Embedded System",
+    "Property": 0
+  },
+  {
+    "Key": "CT653",
+    "Description": "Artificial Intelligence",
+    "Property": 0
+  },
+  {
+    "Key": "CT652",
+    "Description": "Database Management System",
+    "Property": 0
+  },
+  {
+    "Key": "CT651",
+    "Description": "Object Oriented Analysis & Design",
+    "Property": 0
+  },
+  {
+    "Key": "CT656",
+    "Description": "Operating System",
+    "Property": 0
+  },
+  {
+    "Key": "CT654",
+    "Description": "Minor Project",
+    "Property": 0
+  }
+]

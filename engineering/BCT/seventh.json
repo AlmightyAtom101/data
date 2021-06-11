@@ -1,0 +1,97 @@
+[
+  {
+    "Key": "Ass",
+    "Description": "Final",
+    "Property": 0
+  },
+  {
+    "Key": "CT701",
+    "Description": "Project Management",
+    "Property": 0
+  },
+  {
+    "Key": "CT702",
+    "Description": "Computer Network",
+    "Property": 0
+  },
+  {
+    "Key": "CT703",
+    "Description": "Distributed System",
+    "Property": 0
+  },
+  {
+    "Key": "CT704",
+    "Description": "Digital Signal Analysis & Processing",
+    "Property": 0
+  },
+  {
+    "Key": "CT707",
+    "Description": "Project I",
+    "Property": 0
+  },
+  {
+    "Key": "EX701",
+    "Description": "Energy Environment & Society",
+    "Property": 0
+  },
+  {
+    "Key": "ME708",
+    "Description": "Organization & Management",
+    "Property": 0
+  },
+  {
+    "Key": "CT72501",
+    "Description": "Advanced Java Programming (Elective I)",
+    "Property": 0
+  },
+  {
+    "Key": "CT72502",
+    "Description": "Data Mining (Elective I)",
+    "Property": 0
+  },
+  {
+    "Key": "CT72503",
+    "Description": "Embeded System Design Using ARM Technology (Elective I)",
+    "Property": 0
+  },
+  {
+    "Key": "CT72504",
+    "Description": "Image Processing & Pattern Recognition (Elective I)",
+    "Property": 0
+  },
+  {
+    "Key": "CT72505",
+    "Description": "Web Technology (Elective I)",
+    "Property": 0
+  },
+  {
+    "Key": "EE72504",
+    "Description": "Power Electronics (Elective I)",
+    "Property": 0
+  },
+  {
+    "Key": "EX72501",
+    "Description": "Radar Technology (Elective I)",
+    "Property": 0
+  },
+  {
+    "Key": "EX72502",
+    "Description": "Satellite Communication (Elective I)",
+    "Property": 0
+  },
+  {
+    "Key": "EX72503",
+    "Description": "Biomedical Instrumentation (Elective I)",
+    "Property": 0
+  },
+  {
+    "Key": "EX72504",
+    "Description": "Aeronautical Telecommunication (Elective I)",
+    "Property": 0
+  },
+  {
+    "Key": "EX72505",
+    "Description": "RF & Microwave Engineering (Elective I)",
+    "Property": 0
+  }
+]
