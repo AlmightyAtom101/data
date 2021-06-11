@@ -1,41 +1,41 @@
 [
   {
-    "key": "First",
+    "key": "first",
     "Property": 0,
     "Description": "First"
   },
   {
-    "key": "Second",
+    "key": "second",
     "Property": 0,
     "Description": "Second"
   },
   {
-    "key":"Third",
+    "key":"third",
     "Property": 0,
     "Description": "Third"
   },
   {
-    "key": "Fourth",
+    "key": "fourth",
     "Property": 0,
     "Description": "Fourth"
   },
   {
-    "key": "Fifth",
+    "key": "fifth",
     "Property": 0,
     "Description": "Fifth"
   },
   {
-    "key": "Sixth",
+    "key": "sixth",
     "Property": 0,
     "Description": "Sixth"
   },
   {
-    "key": "Seventh",
+    "key": "seventh",
     "Property": 0,
     "Description": "Seventh"
   },
   {
-    "key": 8,
+    "key": "eighth",
     "Property": 0,
     "Description": "Eighth"
   }
