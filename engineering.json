@@ -1,42 +1,43 @@
-[
-  {
-    "Property": 0,
-    "key": "BAE",
-    "Description": "Aerospace"
-  },
-  {
-    "Property": 0,
-    "key": "BCT",
-    "Description": "Computer"
-  },
-  {
-    "Property": 0,
-    "key": "BCE",
-    "Description": "Civil"
-  },
-  {
-    "Property": 0,
-    "key": "BEX",
-    "Description": "Electronics and Communication (BEX)"
-  },
-  {
-    "Property": 0,
-    "key": "BEL",
-    "Description": "Electrical"
-  },
-  {
-    "Property": 0,
-    "key": "BME",
-    "Description": "Mechanical"
-  },
-  {
-    "Property": 0,
-    "key": "BGE",
-    "Description": "Geomatics"
-  },
-  {
-    "Property": 0,
-    "key": "BArch",
-    "Description": "Architexture"
-  }
-]
+{
+	"Engineering": [{
+			"Property": 0,
+			"key": "BAE",
+			"Description": "Aerospace"
+		},
+		{
+			"Property": 0,
+			"key": "BCT",
+			"Description": "Computer"
+		},
+		{
+			"Property": 0,
+			"key": "BCE",
+			"Description": "Civil"
+		},
+		{
+			"Property": 0,
+			"key": "BEX",
+			"Description": "Electronics and Communication (BEX)"
+		},
+		{
+			"Property": 0,
+			"key": "BEL",
+			"Description": "Electrical"
+		},
+		{
+			"Property": 0,
+			"key": "BME",
+			"Description": "Mechanical"
+		},
+		{
+			"Property": 0,
+			"key": "BGE",
+			"Description": "Geomatics"
+		},
+		{
+			"Property": 0,
+			"key": "BArch",
+			"Description": "Architexture"
+		}
+	]
+}
